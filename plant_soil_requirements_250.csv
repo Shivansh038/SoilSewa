@@ -1,0 +1,251 @@
+Plant Name,Scientific Name,Soil Type,pH Range,Moisture Retention,Colour,Organic Matter,Texture,Drainage,Category
+Snake Plant,Sansevieria trifasciata,Sandy loam,6.0 - 7.5,Low,Light brown,Low,Coarse,Excellent,Air Purifying
+Aloe Vera,Aloe barbadensis miller,"Sandy, well-draining",6.0 - 7.0,Low,Light brown,Low,Coarse,Excellent,Succulent
+Areca Palm,Dypsis lutescens,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Spider Plant,Chlorophytum comosum,Loamy,6.0 - 7.2,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Rubber Plant,Ficus elastica,Loamy,5.5 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Air Purifying
+ZZ Plant,Zamioculcas zamiifolia,Sandy loam,6.0 - 7.0,Low,Light brown,Low,Coarse,Fast-draining,Air Purifying
+Basil,Ocimum basilicum,"Loamy, nutrient-rich",5.5 - 6.5,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Mint,Mentha,"Loamy, organic-rich",6.0 - 7.5,High,Dark brown,High,Fine,Moderate,Kitchen Garden
+Cilantro,Coriandrum sativum,"Loamy, well-draining",6.2 - 6.8,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Rosemary,Salvia rosmarinus,Sandy loam,6.0 - 7.0,Low,Light brown,Low,Coarse,Well-draining,Kitchen Garden
+Thyme,Thymus vulgaris,Sandy loam,5.5 - 7.0,Low,Light brown,Low,Coarse,Well-draining,Kitchen Garden
+Jade Plant,Crassula ovata,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Zebra Haworthia,Haworthiopsis fasciata,"Sandy, well-draining",6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Echeveria,Echeveria spp.,"Sandy, well-draining",6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Burro’s Tail,Sedum morganianum,Sandy loam,6.0 - 7.0,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Moon Cactus,Gymnocalycium mihanovichii,"Sandy, well-draining",5.5 - 6.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Lemon Tree,Citrus limon,"Loamy, well-draining",5.5 - 6.5,Medium,Dark brown,High,Medium,Well-draining,Fruit Plant
+Orange Tree,Citrus sinensis,"Loamy, sandy",6.0 - 7.5,Medium,Dark brown,High,Medium,Well-draining,Fruit Plant
+Fig Tree,Ficus carica,Loamy,6.0 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Banana Plant,Musa spp.,Rich loam,5.5 - 7.0,High,Dark brown,High,Fine,Moderate,Fruit Plant
+Dracaena,Dracaena fragrans,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Ponytail Palm,Beaucarnea recurvata,Sandy loam,6.0 - 7.5,Low,Light brown,Low,Coarse,Well-draining,Office Plant
+Corn Plant,Dracaena fragrans 'Massangeana',Loamy,6.0 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Philodendron,Philodendron hederaceum,Loamy,5.0 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Office Plant
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
+Golden Pothos,Epipremnum aureum,Loamy,6.1 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Air Purifying
+Tomato,Solanum lycopersicum,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Kitchen Garden
+Carrot,Daucus carota,Sandy loam,6.0 - 6.8,Medium,Light brown,Medium,Fine,Well-draining,Kitchen Garden
+Bell Pepper,Capsicum annuum,"Loamy, organic-rich",6.0 - 6.8,Medium,Dark brown,High,Medium,Well-draining,Kitchen Garden
+Barrel Cactus,Ferocactus spp.,Sandy,6.0 - 7.5,Low,Light brown,Low,Coarse,Fast-draining,Succulent
+Christmas Cactus,Schlumbergera spp.,Sandy loam,5.5 - 6.5,Medium,Light brown,Low,Coarse,Well-draining,Succulent
+Apple Tree,Malus domestica,"Loamy, well-draining",5.5 - 7.0,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Strawberry,Fragaria × ananassa,"Loamy, organic-rich",5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Fruit Plant
+Pomegranate,Punica granatum,"Loamy, sandy",5.5 - 7.0,Medium,Dark brown,Medium,Fine,Well-draining,Fruit Plant
+Chinese Evergreen,Aglaonema spp.,Loamy,5.6 - 6.5,Medium,Dark brown,Medium,Fine,Well-draining,Office Plant
+Lucky Bamboo,Dracaena sanderiana,Loamy,6.0 - 6.5,Medium,Dark brown,Medium,Fine,Moist but well-draining,Office Plant
+Orchid,Orchidaceae,Bark-based mix,5.5 - 6.5,Medium,Dark brown,Medium,Coarse,Fast-draining,Ornamental
+Marigold,Tagetes spp.,Sandy loam,6.0 - 7.5,Medium,Light brown,Medium,Fine,Well-draining,Ornamental
+Hibiscus,Hibiscus rosa-sinensis,"Loamy, nutrient-rich",6.0 - 7.0,Medium,Dark brown,High,Medium,Well-draining,Ornamental
+Peace Lily,Spathiphyllum spp.,Loamy,5.5 - 6.5,Medium,Dark brown,High,Fine,Well-draining,Air Purifying
+Boston Fern,Nephrolepis exaltata,"Loamy, organic-rich",5.0 - 6.5,High,Dark brown,High,Fine,Moist but well-draining,Air Purifying
